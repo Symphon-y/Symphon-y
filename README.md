@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/travis_redden" target="blank"><img src="https://img.shields.io/twitter/follow/travis_redden?logo=twitter&style=for-the-badge" alt="travis_redden" /></a> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@TravisRedden](https://medium.com/@TravisRedden)
+- 📝 I regularly write articles on [Medium](https://medium.com/@TravisRedden)
 
 - 💬 Ask me about **React, React-native, ES6, CSS ect.**
 
