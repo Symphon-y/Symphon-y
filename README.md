@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Travis</h1>
-<h3 align="center">A full stack software engineer with a passion for problem solving, creating things, and sometimes writing pithy articles for internet strangers.</h3>
+<h3 align="center">A full stack software engineer with a passion for problem solving, creating things, and writing pithy articles for internet strangers.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=symphon-y&label=Profile%20views&color=0e75b6&style=flat" alt="symphon-y" /> </p>
 
