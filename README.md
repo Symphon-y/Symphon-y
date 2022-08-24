@@ -1,5 +1,5 @@
 ## Hi there, I'm Travis 👋
-I'm a fullstack software engineer with a passion for building fun things in javascript and writing short pithy articles about my adventures in programming for strangers on the internet. :pencil:
+I'm a fullstack software engineer with a passion for building fun things in javascript and writing short pithy articles about my adventures in programming. :pencil:
 <h2> </h2>
 
 [![LinkedIn](https://img.shields.io/badge/travisredden%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/travisredden/)](https://www.linkedin.com/in/travisredden/)
