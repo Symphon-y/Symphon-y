@@ -14,6 +14,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Solving: The Reverse Integer Problem](https://medium.com/@TravisRedden/solving-the-reverse-integer-problem-b7f151910614?source=rss-4e31a6380526------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages & Tools
