@@ -1,5 +1,6 @@
 ## Hi there, I'm Travis 👋
 I'm a fullstack software engineer with a passion for making cool things on the internet.
+
 [![LinkedIn](https://img.shields.io/badge/travisredden%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/travisredden/)](https://www.linkedin.com/in/travisredden/)
 [![AngelList](https://img.shields.io/badge/travisredden%20-%2320232a.svg?&style=flat-square&logo=angellist&logoColor=white&link=https://angel.co/u/travis-redden)](https://angel.co/u/travis-redden)
 [![Twitter](https://img.shields.io/badge/travisredden%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Travis_Redden/)](https://twitter.com/Travis_Redden/)
