@@ -1,6 +1,6 @@
 ## Hi there, I'm Travis 👋
 [![LinkedIn](https://img.shields.io/badge/travisredden%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/travisredden/)](https://www.linkedin.com/in/travisredden/)
-[![AngelList](https://img.shields.io/badge/travisredden%20-%23f2f8ff.svg?&style=flat-square&logo=angellist&logoColor=black&link=https://angel.co/u/travis-redden)](https://angel.co/u/travis-redden)
+[![AngelList](https://img.shields.io/badge/travisredden%20-%2320232a.svg?&style=flat-square&logo=angellist&logoColor=white&link=https://angel.co/u/travis-redden)](https://angel.co/u/travis-redden)
 [![Twitter](https://img.shields.io/badge/travisredden%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Travis_Redden/)](https://twitter.com/Travis_Redden/)
 [![Medium](https://img.shields.io/badge/travisredden%20-%23fb573b.svg?&style=flat-square&logo=medium&logoColor=white&link=[https://github.com/symphon-y](https://medium.com/@travisredden))]([https://github.com/symphon-y](https://medium.com/@travisredden))
 [![Outlook](https://img.shields.io/badge/travisredden%20-%230072C6.svg?&style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:travisredden@outlook.com)](mailto:travisredden@outlook.com)
@@ -19,7 +19,7 @@
 ### Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
-![React-Native](https://img.shields.io/badge/React-Native%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
+![React_Native](https://img.shields.io/badge/React_Native%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest%20-%23C21325.svg?&style=flat-square&logo=Jest&logoColor=white)
