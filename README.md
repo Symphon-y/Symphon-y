@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, &nbsp;I'm Travis</h1>
-<h3 align="center">A full stack software engineer with a passion for problem solving, creating things, and writing pithy articles for internet strangers.</h3>
-
+## Hi there, I'm Travis 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=symphon-y&label=Profile%20views&color=0e75b6&style=flat" alt="symphon-y" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=symphon-y" alt="symphon-y" /></a> </p>
