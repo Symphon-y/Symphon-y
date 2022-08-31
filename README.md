@@ -15,7 +15,7 @@ I'm a fullstack software engineer with a passion for building fun things in java
 - :round_pushpin: Based in Houston, Tx
 - :smile: Pronouns: He/Him/His
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Solving: The Group Anagrams Problem](https://medium.com/@TravisRedden/solving-the-group-anagrams-problem-6a86f15375e0?source=rss-4e31a6380526------2)
 - [Solving: The Reverse Integer Problem](https://medium.com/@TravisRedden/solving-the-reverse-integer-problem-b7f151910614?source=rss-4e31a6380526------2)
