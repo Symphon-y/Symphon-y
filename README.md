@@ -23,6 +23,7 @@ I'm a fullstack software engineer with a passion for building fun things in java
 
 ### Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Typescript](https://img.shields.io/badge/TypeScript%20-%231282c2.svg?&style=flat-square&logo=typescript&logoColor=%23FFFFFF)
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 ![React_Native](https://img.shields.io/badge/React_Native%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
