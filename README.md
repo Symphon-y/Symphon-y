@@ -11,9 +11,10 @@ I'm a fullstack software engineer with a passion for building fun things in java
 
 
 
-- :office: Open to work, connect with me on [LinkedIn!](https://www.linkedin.com/in/travisredden/)
 - :round_pushpin: Based in Houston, Tx
 - :smile: Pronouns: He/Him/His
+- :office: Open to work, connect with me on [LinkedIn!](https://www.linkedin.com/in/travisredden/)
+- 🖥️ View my interactive portfolio [here!](http://www.travisredden.com)
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
