@@ -3,7 +3,6 @@ I'm a fullstack software engineer with a passion for building exciting projects 
 <h2> </h2>
 
 [![LinkedIn](https://img.shields.io/badge/travisredden%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/travisredden/)](https://www.linkedin.com/in/travisredden/)
-[![Twitter](https://img.shields.io/badge/travisredden%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Travis_Redden/)](https://twitter.com/Travis_Redden/)
 [![Medium](https://img.shields.io/badge/travisredden%20-%23fb573b.svg?&style=flat-square&logo=medium&logoColor=white&link=[https://github.com/symphon-y](https://medium.com/@travisredden))](https://medium.com/@travisredden)
 [![Outlook](https://img.shields.io/badge/travisredden%20-%230072C6.svg?&style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:travisredden@outlook.com)](mailto:travisredden@outlook.com)
 
