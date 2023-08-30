@@ -21,11 +21,11 @@ I'm a fullstack software engineer with a passion for building exciting projects 
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages & Tools
-![C#](https://img.shields.io/badge/csharp%20-%23A03DAA.svg?&style=flat-square&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Typescript](https://img.shields.io/badge/TypeScript%20-%231282c2.svg?&style=flat-square&logo=typescript&logoColor=%23FFFFFF)
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 ![React_Native](https://img.shields.io/badge/React_Native%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
+![Typescript](https://img.shields.io/badge/TypeScript%20-%231282c2.svg?&style=flat-square&logo=typescript&logoColor=%23FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/csharp%20-%23A03DAA.svg?&style=flat-square&logo=csharp&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white)
