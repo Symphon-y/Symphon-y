@@ -1,9 +1,8 @@
 ## Hi there, I'm Travis 👋
-I'm a fullstack software engineer with a passion for building fun things in javascript and occasionally writing pithy articles on the internet about my adventures in programming. :pencil:
+I'm a fullstack software engineer with a passion for building exciting projects and occasionally writing pithy articles on the internet about my adventures in programming. :pencil:
 <h2> </h2>
 
 [![LinkedIn](https://img.shields.io/badge/travisredden%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/travisredden/)](https://www.linkedin.com/in/travisredden/)
-[![AngelList](https://img.shields.io/badge/travisredden%20-%2320232a.svg?&style=flat-square&logo=angellist&logoColor=white&link=https://angel.co/u/travis-redden)](https://angel.co/u/travis-redden)
 [![Twitter](https://img.shields.io/badge/travisredden%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Travis_Redden/)](https://twitter.com/Travis_Redden/)
 [![Medium](https://img.shields.io/badge/travisredden%20-%23fb573b.svg?&style=flat-square&logo=medium&logoColor=white&link=[https://github.com/symphon-y](https://medium.com/@travisredden))](https://medium.com/@travisredden)
 [![Outlook](https://img.shields.io/badge/travisredden%20-%230072C6.svg?&style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:travisredden@outlook.com)](mailto:travisredden@outlook.com)
@@ -11,10 +10,9 @@ I'm a fullstack software engineer with a passion for building fun things in java
 
 
 
-- :round_pushpin: Based in Houston, Tx
+- :round_pushpin: Based in Austin, Tx
 - :smile: Pronouns: He/Him/His
 - :office: Open to work, connect with me on [LinkedIn!](https://www.linkedin.com/in/travisredden/)
-- 🖥️ View my interactive portfolio [here!](http://www.travisredden.com)
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -23,6 +21,7 @@ I'm a fullstack software engineer with a passion for building fun things in java
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages & Tools
+![C#](https://img.shields.io/badge/csharp%20-%23A03DAA.svg?&style=flat-square&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript%20-%231282c2.svg?&style=flat-square&logo=typescript&logoColor=%23FFFFFF)
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -50,7 +49,7 @@ I'm a fullstack software engineer with a passion for building fun things in java
 
 
 <!-- Most Used Languages Badge -->
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=symphon-y&show_icons=true&locale=en&layout=compact" alt="symphon-y" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=symphon-y&show_icons=true&locale=en&layout=compact" alt="symphon-y" /></p>
 
 <!-- Github Stats Badge-->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=symphon-y&show_icons=true&locale=en" alt="symphon-y" /></p>
