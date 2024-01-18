@@ -15,6 +15,7 @@ I'm a fullstack software engineer with a passion for building exciting projects 
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Solving the “FizzBuzz Problem” in Typescript](https://medium.com/@TravisRedden/solving-the-fizzbuzz-problem-in-typescript-c21ff4233034?source=rss-4e31a6380526------2)
 - [Solving: The Group Anagrams Problem](https://medium.com/@TravisRedden/solving-the-group-anagrams-problem-6a86f15375e0?source=rss-4e31a6380526------2)
 - [Solving: The Reverse Integer Problem](https://medium.com/@TravisRedden/solving-the-reverse-integer-problem-b7f151910614?source=rss-4e31a6380526------2)
 <!-- BLOG-POST-LIST:END -->
