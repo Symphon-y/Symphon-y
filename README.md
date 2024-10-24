@@ -11,7 +11,7 @@ I'm a fullstack software engineer with a passion for building exciting projects 
 
 - :round_pushpin: Based in Austin, Tx
 - :smile: Pronouns: He/Him/His
-- :office: Open to work, connect with me on [LinkedIn!](https://www.linkedin.com/in/travisredden/)
+- :office: Connect with me on [LinkedIn!](https://www.linkedin.com/in/travisredden/)
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
