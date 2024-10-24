@@ -49,7 +49,7 @@ I'm a fullstack software engineer with a passion for building exciting projects 
 
 
 <!-- Most Used Languages Badge -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=symphon-y&show_icons=true&locale=en&layout=compact" alt="symphon-y" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=symphon-y&show_icons=true&locale=en&layout=compact" alt="symphon-y" /></p> -->
 
 <!-- Github Stats Badge-->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=symphon-y&show_icons=true&locale=en" alt="symphon-y" /></p>
